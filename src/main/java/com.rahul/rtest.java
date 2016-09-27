@@ -8,7 +8,7 @@ public class rtest {
         Scanner ab = new Scanner(System.in);
         int a, b,c;
         a = 10;
-        b = 4;
+        b = 14;
         c = a+b;
         System.out.println("Sum :"+c);
 
